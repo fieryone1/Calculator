@@ -1,0 +1,47 @@
+#calc {
+    display: flex;
+    flex-wrap: wrap;
+    background-color: black;
+    width: 550px;
+}
+
+#display {
+    width: 522px;
+    height: 150px;
+    background-color: grey;
+    margin: 10px;
+    font-size: 30px;
+}
+#clear,#del {
+    background-color: blue;
+    height: 100px;
+    width:250px;
+    margin: 11px;
+
+}
+
+#operators{
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: 10px;
+    width: 152px;
+
+    
+
+}
+
+#multiply,#divide,#add,#subtract{
+    width: 150px;
+    height:50px;
+    color: white;
+    font-size: 40px;
+    background-color: grey;
+    text-align: center;
+}
+#numcontainer {
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 10px;
+    width: 370px;
+
+}
