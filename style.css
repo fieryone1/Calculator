@@ -8,7 +8,7 @@
 #display {
     width: 522px;
     height: 150px;
-    background-color: grey;
+    background-color: grey; 
     margin: 10px;
     font-size: 30px;
 }
